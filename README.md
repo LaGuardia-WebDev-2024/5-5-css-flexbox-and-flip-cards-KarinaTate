@@ -1,13 +1,12 @@
-# 5-5-CSS-Flexbox-and-Flip-Cards
+# 5-4-CSS-Flexbox
 
 ## Step #1 - Follow The Video
-👩‍💻 Code Along With the Video -->[Ms. Hall's Video](https://youtu.be/nuXahrkx_9s) <br>
-🔗 Copied Flip Card Code is Here ----> [w3Schools Flip Cards](https://www.w3schools.com/howto/howto_css_flip_card.asp)
+Code Along With the Video -->[https://youtu.be/wMXPIY7L60Q] 👩‍💻
 <br><br>
-## Step #2 - Edit the HTML of the Flip Cards
-Adjust the HTML code so that each Flip Card has a unique picture & unique text <br><br>
-## Step #3 - Edit the CSS of justify-content
-Try a few other justify-content values to see how they change the item alignment [Justify Content](https://css-tricks.com/almanac/properties/j/justify-content/) <br><br>
+## Step #2 - Continue Using Flexbox
+In the video we added Flexbox to the first book + text combo. <br><br>
+Practice Flexbox by formatting the other two book + text combos in their own Flexbox.  
+<br>Play with justify content + align-items to test different values. <br><br>CSS Flexbox Layout Guide-->[https://css-tricks.com/snippets/css/a-guide-to-flexbox/]
+<br><br>
 
-### Additional Flexbox Information
-[CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
